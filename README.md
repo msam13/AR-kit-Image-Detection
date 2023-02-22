@@ -1,3 +1,3 @@
 # AR-kit-Image-Detection
 
-IOS app
+AR Mobile application for Manipal Museum of Anatomy and Pathology. 
